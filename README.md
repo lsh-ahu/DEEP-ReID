@@ -22,9 +22,14 @@ Finally, to further empower the spectral representation, we propose a Spectral S
 Extensive experiments on five public benchmarks, RGBNT201, Market-MM, MSVR310, WMVEID863, and RGBNT100, demonstrate the proposed method outperforms the state-of-the-art methods.
 
 ![framework](./assets/framework.png) <!-- optional -->
-![exp_prompt](./assets/exp_prompt.png) <!-- optional -->
+![exp_sota_1](./assets/exp_sota_1.png) <!-- optional -->
+![exp_sota_2](./assets/exp_sota_2.png) <!-- optional -->
+
+<img src="./assets/exp_prompt.png" alt="exp_prompt" width="350"/>
+
+<!-- optional -->
 ![exp_word_cloud](./assets/exp_word_cloud.png) <!-- optional -->
-![framework](./assets/exp_cam.png) <!-- optional -->
+![exp_cam](./assets/exp_cam.png) <!-- optional -->
 ---
 
 
@@ -33,7 +38,7 @@ Extensive experiments on five public benchmarks, RGBNT201, Market-MM, MSVR310, W
 If you find our work helpful, please consider citing:
 
 ```
-@ARTICLE{11370286,
+@article{li2026deep,
   author={Li, Shihao and Li, Chenglong and Zheng, Aihua and Tang, Jin and Luo, Bin},
   journal={IEEE Transactions on Multimedia}, 
   title={DEEP: Decoupled Semantic Prompt Learning, Guiding and Embedding for Multi-Spectral Object Re-Identification}, 
