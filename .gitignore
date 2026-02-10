@@ -230,11 +230,5 @@ output
 *.out
 data/
 
-visibilization/
-auto_train_1019/
-auto_train_*/
-expert_vis_ids/
-visualize_path/
-visualize_path_combine/
 logs/
 .history/
