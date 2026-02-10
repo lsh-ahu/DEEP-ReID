@@ -25,7 +25,7 @@ Extensive experiments on five public benchmarks, RGBNT201, Market-MM, MSVR310, W
 ![exp_sota_1](./assets/exp_sota_1.png) <!-- optional -->
 ![exp_sota_2](./assets/exp_sota_2.png) <!-- optional -->
 
-<img src="./assets/exp_prompt.png" alt="exp_prompt" width="350"/>
+<img src="./assets/exp_prompt.png" alt="exp_prompt" width="550"/>
 
 <!-- optional -->
 ![exp_word_cloud](./assets/exp_word_cloud.png) <!-- optional -->
