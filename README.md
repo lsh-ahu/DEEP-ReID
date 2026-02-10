@@ -28,8 +28,8 @@ Extensive experiments on five public benchmarks, RGBNT201, Market-MM, MSVR310, W
 <img src="./assets/exp_prompt.png" alt="exp_prompt" width="550"/>
 
 <!-- optional -->
-![exp_word_cloud](./assets/exp_word_cloud.png) <!-- optional -->
 ![exp_cam](./assets/exp_cam.png) <!-- optional -->
+![exp_word_cloud](./assets/exp_word_cloud.png) <!-- optional -->
 ---
 
 
