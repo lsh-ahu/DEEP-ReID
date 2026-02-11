@@ -3,7 +3,7 @@
 <!-- Authors: [Shihao Li], [Chenglong Li], [Aihua Zheng], [Jin Tang], [Bin Luo]. -->
 Authors: [Shihao Li, Chenglong Li, Aihua Zheng*, Jin Tang, Bin Luo].
 
-Accepcted by [IEEE Transactions on Multimedia], [2026]  
+Accepted by [IEEE Transactions on Multimedia], [2026]  
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11370286) 
 
 ---
